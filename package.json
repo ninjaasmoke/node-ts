@@ -1,15 +1,15 @@
 {
 	"name": "@ninjaasmoke/tsnode",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Create your NodeJS server with typescript!",
-	"main": "dist/index.js",
+	"main": "index.js",
 	"type": "module",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1",
 		"build": "tsc"
 	},
 	"bin": {
-		"tsnode": "./dist/index.js"
+		"tsnode": "./index.js"
 	},
 	"repository": {
 		"type": "git",

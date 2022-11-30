@@ -10,7 +10,7 @@ It does **not** require *any* additional changes to your code during developemen
 # Installation
 
 ```bash
-npm install -g @ninjaasmoke/tsnode
+npm install -g tsnode
 ```
 
 And tsnode will be installed globally to your system path.

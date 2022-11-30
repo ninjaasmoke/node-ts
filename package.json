@@ -1,0 +1,41 @@
+{
+	"name": "tsnode",
+	"version": "1.0.0",
+	"description": "Create your NodeJS server with typescript!",
+	"main": "dist/index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"build": "tsc"
+	},
+	"bin": {
+		"tsnode": "./dist/index.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/ninjaasmoke/tsnode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/ninjaasmoke/tsnode/issues"
+	},
+	"homepage": "https://github.com/ninjaasmoke/tsnode#readme",		
+	"keywords": [
+		"nodemon alternative",
+		"restart",
+		"node",
+		"tsnode",
+		"typescript",
+		"tsnode",
+		"typescript-node",
+		"typescript-nodejs",
+		"typescript-nodejs-server"
+	],	
+	"author": {
+		"name": "nithin",
+		"url": "https://ninjasmoke.vercel.app"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"chokidar": "^3.5.1"
+	}
+}
